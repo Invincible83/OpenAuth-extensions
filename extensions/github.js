@@ -36,7 +36,7 @@ exports.make = function() {
 				RESTBuilder.make(function(builder) {
 					builder.method('GET');
 					builder.url('https://api.github.com/user');
-					builder.header('Authorization', 'Bearer ' + response.access_token);
+					builder.auth('Bearer ' + response.access_token);
 					builder.callback(function(err, profile, output) {
 						if (output.status === 200) {
 							var model = {};
