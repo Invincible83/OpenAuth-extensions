@@ -8,19 +8,19 @@ This is just an alternative to official [Total.js OpenAuth](https://github.com/t
 - [x] Github
 - [x] Google
 - [x] Dropbox
-- [] [Amazon](https://developer.amazon.com/docs/login-with-amazon/authorization-code-grant.html)
-- [] Twitter
-- [] Microsoft
-- [] Buffer
-- [] Salesforce
-- [] Telegram
-- [] Discord
-- [] Slack
-- [] Okta
-- [] Zalo
-- [] Yahoo
-- [] Apple
-- [] Reddit
-- [] Trello
-- [] Tumblr
-- [] Twitch
+- [ ] [Amazon](https://developer.amazon.com/docs/login-with-amazon/authorization-code-grant.html)
+- [ ] Twitter
+- [ ] Microsoft
+- [ ] Buffer
+- [ ] Salesforce
+- [ ] Telegram
+- [ ] Discord
+- [ ] Slack
+- [ ] Okta
+- [ ] Zalo
+- [ ] Yahoo
+- [ ] Apple
+- [ ] Reddit
+- [ ] Trello
+- [ ] Tumblr
+- [ ] Twitch
