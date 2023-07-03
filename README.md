@@ -14,7 +14,7 @@ This is just an alternative to official [Total.js OpenAuth](https://github.com/t
 - [ ] Buffer
 - [ ] Salesforce
 - [ ] Telegram
-- [ ] Discord
+- [x] Discord
 - [ ] Slack
 - [ ] Okta
 - [ ] Zalo
