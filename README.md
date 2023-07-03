@@ -23,4 +23,4 @@ This is just an alternative to official [Total.js OpenAuth](https://github.com/t
 - [ ] Reddit
 - [ ] Trello
 - [ ] Tumblr
-- [ ] Twitch
+- [x] Twitch
