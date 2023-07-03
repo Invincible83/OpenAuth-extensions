@@ -64,7 +64,7 @@ exports.make = function() {
 						builder2.callback(function(err, profile, output) {
 							if (output.status === 200) {
 								var model = {};
-								model.id = profile.id.toString();
+								model.id = '' + profile.id;
 								model.nick = profile.name || '';
 								model.name = profile.name || '';
 								model.firstname = profile.given_name || '';
